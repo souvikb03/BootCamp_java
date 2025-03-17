@@ -13,10 +13,10 @@
 ![Screenshot (99)](https://github.com/user-attachments/assets/bf60d4b6-647c-4940-a344-fae9936ebf74)
 ![Screenshot (100)](https://github.com/user-attachments/assets/29c2e50c-7564-4b1d-98b4-3f3cf03643e4)
 #
-### Then we have choose the project dependencies, here we have choose 'Spring Data JPA','Apache Derby Database', and 'Spring Web' as shown in the image. then click on 'Finish'
+### Then we have choose the project dependencies, here we have choose 'Spring Data JPA','Apache Derby Database', and 'Spring Web' as shown in the image. then click on 'Finish'. Here we are not using Frontend only we are creating basic webpage so we are using only these 3 dependencies otherwise,
 ![Screenshot (101)](https://github.com/user-attachments/assets/bbb40fbf-5032-4941-afdc-cfab45dd650e)
 #
-### 
+### If we want to use frontend by using html, css and javascript, frontend higher version like angular js, REACT, MERN, MEAN, MEVN then we have to use thymleaf dependency. 
 
 ![Screenshot (103)](https://github.com/user-attachments/assets/ac896f50-5e38-4cf7-9e7f-dac5f893a522)
 #
